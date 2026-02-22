@@ -1,0 +1,16 @@
+# Arquivo com credenciais reais — NUNCA versionar!
+.env
+
+# Ambientes virtuais Python
+venv/
+.venv/
+env/
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
